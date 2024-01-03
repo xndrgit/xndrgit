@@ -1,8 +1,6 @@
 <div id="header" align="center">
   
 ![logo](https://github.com/xndrgit/xndrgit/assets/115892862/eef28177-e758-4ce8-b6f0-1b6b3dcd61c6)
-  
-<h1 align="center"><b>ehy there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JS,+PYTHON;Made+with+love..<3;"></a>
