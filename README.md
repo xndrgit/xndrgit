@@ -3,7 +3,7 @@
 ![logo](https://github.com/xndrgit/xndrgit/assets/115892862/eef28177-e758-4ce8-b6f0-1b6b3dcd61c6)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JS,+PYTHON;Made+with+love..<3;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer;++;ReactJS,+VueJS,+Laravel;PHP,+JS,+PYTHON,+JAVA,+SCSS,+BLADE;Made+with+love..<3;"></a>
 </p>
 
 Do you want to have something coded? Contact me via <a href="https://www.instagram.com/xndr.ig/">  below links! </a>
