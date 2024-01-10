@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  
-
-![xndrdev1](https://github.com/xndrgit/xndrgit/assets/115892862/1ac05823-aa33-414c-baa5-ad02ab8b0760)
-
 
 <p align="center">
    <a href="https://discord.com/users/925431204751224943">
@@ -52,6 +48,9 @@ Do you want to have something coded? Contact me via <a href="https://www.instagr
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
+<br>
+<br>
+
 
 </p>
 
@@ -67,6 +66,11 @@ Do you want to have something coded? Contact me via <a href="https://www.instagr
 ![](https://komarev.com/ghpvc/?username=corwindev&label=PROFILE+VIEWS)
 </a>
 </div>
+
+<br>
+<br>
+<br>
+
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
