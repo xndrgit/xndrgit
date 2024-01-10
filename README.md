@@ -81,7 +81,7 @@ Do you want to have something coded? Contact me via <a href="https://www.instagr
 </a>
 </li>
 <li>
-<a href="https://instagram.com/xndr.ig" target="_blank">
+ <a href="https://discord.com/users/925431204751224943" target="_blank"> 
 <img src="https://img.shields.io/badge/discord:xndr.ds-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
