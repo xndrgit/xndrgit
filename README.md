@@ -76,12 +76,6 @@
 <div align='left' id="contact">
   
 <ul>
-
-<li>
-<a href="https://instagram.com/xndr.ig" target="_blank">
-<img src="https://img.shields.io/badge/instagram:xndr.ig-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
 <li>
  <a href="https://discord.com/users/925431204751224943" target="_blank"> 
 <img src="https://img.shields.io/badge/discord:xndr.ds-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
