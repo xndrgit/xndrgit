@@ -1,7 +1,11 @@
-Most of my work starts as a problem, rarely as a spec. A booking flow that loses customers. A process still run from spreadsheets. An idea that needs a first version in weeks, before the budget for it disappears.
+Hi, I'm xndr. Companies bring me in when something digital has to work the first time.
 
-I take it from there. I work out what is worth building, design it, engineer it and put it live. Then I keep it running, so you deal with one person who answers for the whole thing.
+It usually starts as a problem, rarely as a spec. A booking flow that loses customers. A process still run from spreadsheets. An idea that needs a first version in weeks.
 
-I'm xndr: Italian, living in Norway, founder of [PC 113 Studio](https://pc113studio.no/en). I work with companies in both countries.
+I decide with you what is worth building, then I design it, engineer it and put it live. After launch I stay on it. You deal with one person, and that person answers for the result.
 
-Something to build or fix? Write to [contact@pc113studio.no](mailto:contact@pc113studio.no) or start at [pc113studio.no](https://pc113studio.no/en).
+Italian, living in Norway. Founder of [PC 113 Studio](https://pc113studio.no/en), working with companies in both countries.
+
+Two lines about your problem are enough to start. Pick whichever is easiest:
+
+[contact@pc113studio.no](mailto:contact@pc113studio.no) · [+47 973 01 113](tel:+4797301113) · [pc113studio.no](https://pc113studio.no/en)
